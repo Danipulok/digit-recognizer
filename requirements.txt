@@ -1,0 +1,12 @@
+# AI
+tensorflow~=2.9.1
+
+# Pictures
+pillow~=9.1.1
+keras~=2.9.0
+
+# Data
+numpy~=1.22.4
+
+# Graphics
+matplotlib~=3.5.2
