@@ -1,12 +1,15 @@
 # DigitRecognizer
+## _Neural network to recognize digits from pictures_
 
-## QuickStart
+DigitRecognizer is a small trained neural network to distinguish digits from pictures. 
+Both by hand and printed.
 
-- Create virtual enviroment: 
-`python -m venv venv`
+## Installation 
 
-- Activate virtual enviroment:
-`source venv/bin/activate`
+```sh
+python -m venv .venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
 
-- Установка всех необходимых зависимостей: 
-`pip install -r requirements.txt`
+Start `.ipynb` 🎉
